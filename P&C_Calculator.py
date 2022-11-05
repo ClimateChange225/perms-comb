@@ -5,7 +5,7 @@ Created on Sun Nov  6 01:26:29 2022
 Should help you calculate permutations and combinations
 Let me know if you face any issues, pretty basic code as I'm still very much a beginner.
 If you don't have a program to help you compile this code just look up Online Python Compiler
-Click anyone one, copy this code and paste it there; you should be good to go!
+Click anyone, copy this code and paste it there; you should be good to go!
 Thanks and best of luck!
 """
 
