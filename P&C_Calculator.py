@@ -22,8 +22,7 @@ nFact = fact(n)
 rFact = fact(r)
 n_rFact = fact(n_r)
 if choice.lower().strip()=="p":
-    print("The number of permutations is:", nFact/n_rFact)
-    
+    print("The number of permutations is:", nFact/n_rFact) 
 elif choice.lower().strip()=="c":
     print("The number of combinations is:", nFact/(rFact*n_rFact))
 else:
