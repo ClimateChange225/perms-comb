@@ -3,7 +3,7 @@ Created on Sun Nov  6 12:20:44 2022
 
 @author: ahad0
 An update to the earlier code.
-Added a menu for easier chosing, functionally the same thing.
+Added a menu for easier choosing, functionally the same thing.
 Now also eliminates negative values and cases where r>n
 Same as before, just look up any online python interpreter and you should be good to go
 Thanks and best of luck!
